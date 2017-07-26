@@ -1,5 +1,5 @@
 
-var fileurl0= "https://raw.githubusercontent.com/zhenmp4/fgsoft-1001/master/";
+var fileurl0= "https://github.com/zhenmp4/fgsoft-1001/raw/master/";
 
 
 
