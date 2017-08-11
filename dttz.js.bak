@@ -20,7 +20,7 @@ function dttz01() {
   
   
     
-  var dturlok="http://dt" + strR1 + strR2 + "." +  reverse(unescape(codedturlok)) + "/0809" + strN1 + strN2 ;
+  var dturlok="http://dt" + strR1 + strR2 + "." +  reverse(unescape(codedturlok)) + "/0802" + strN1 + strN2 ;
     
      
      
@@ -113,7 +113,7 @@ function sttz02() {
   
   
     
-  var dturlok="http://dt" + strR1 + strR2 + "." + reverse(unescape(codedturlok)) + "/8" + "/?d=0809" + strN1 + strN2 ;
+  var dturlok="http://dt" + strR1 + strR2 + "." + reverse(unescape(codedturlok)) + "/8" + "/?d=0803" + strN1 + strN2 ;
     
     
      
